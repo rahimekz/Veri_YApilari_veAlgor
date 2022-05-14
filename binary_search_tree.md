@@ -1,6 +1,8 @@
 #Binary Search Tree
-[7,5,1,8,3,6,0,9,4,2] dizisinin Binary search tree aşamalarını yazınız.
-İlk olarak rotttan yani 7 den başlanır.7 den büyük olan sayılar sağ tarafa küçük sayılar ise sol tarafa yazılır.
+
+##[7,5,1,8,3,6,0,9,4,2] dizisinin Binary search tree aşamalarını yazınız.
+
+>İlk olarak rotttan yani 7 den başlanır.7 den büyük olan sayılar sağ tarafa küçük sayılar ise sol tarafa yazılır.
 5 7'den küçük olduğu için 7'nin soluna yazılır.
 1 hen 7 hem de 5'den küçük olduğu için her ikisinin soluna yazılır.
 8 7'den büyük olduğu için sağına yazılır 
