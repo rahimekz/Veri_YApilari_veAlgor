@@ -30,3 +30,4 @@ Ortada oldğu için average case kısmına girer.
 3. [2,3,5,7,8,9,4,15,6]
 4. [2,3,4,5,7,8,9,15,6]
  
+https://www.patika.dev/tr 
