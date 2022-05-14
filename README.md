@@ -1,0 +1,1 @@
+# Veri_YApilari_veAlgor
